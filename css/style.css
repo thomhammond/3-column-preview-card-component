@@ -1,5 +1,5 @@
 .car {
-  padding: 3em 4em;
+  padding: 3em 3.5em;
 }
 .sedan {
   background-color: hsl(31, 77%, 52%);
@@ -52,8 +52,8 @@
     align-items: center;
   }
   .car {
-    height: 450px;
-    width: 350px;
+    height: 390px;
+    max-width: 200px;
     overflow: hidden;
   }
   .sedan {
